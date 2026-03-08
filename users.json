@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "shaurya.dev",
+      "name": "Shaurya Verma",
+      "bio": "CS Student | Future Data Scientist | Building cool tech 🚀",
+      "profile_pic": "https://randomuser.me/api/portraits/men/1.jpg",
+      "followers": 1240,
+      "following": 320,
+      "posts": 45,
+      "isVerified": false,
+      "website": "https://github.com/shaurya-verma",
+      "location": "Punjab, India"
+    },
+    {
+      "id": 2,
+      "username": "codewitharya",
+      "name": "Arya Sharma",
+      "bio": "Full Stack Developer | React ⚛️ | Node.js 🚀",
+      "profile_pic": "https://randomuser.me/api/portraits/women/2.jpg",
+      "followers": 5400,
+      "following": 210,
+      "posts": 120,
+      "isVerified": true,
+      "website": "https://arya.dev",
+      "location": "Delhi, India"
+    },
+    {
+      "id": 3,
+      "username": "ai_explorer",
+      "name": "Rahul Mehta",
+      "bio": "AI | ML | Data Science 📊",
+      "profile_pic": "https://randomuser.me/api/portraits/men/3.jpg",
+      "followers": 2100,
+      "following": 430,
+      "posts": 60,
+      "isVerified": false,
+      "website": "",
+      "location": "Mumbai, India"
+    },
+    {
+      "id": 4,
+      "username": "travelwithme",
+      "name": "Neha Kapoor",
+      "bio": "Travel Blogger ✈️ | Exploring the world",
+      "profile_pic": "https://randomuser.me/api/portraits/women/4.jpg",
+      "followers": 15800,
+      "following": 350,
+      "posts": 240,
+      "isVerified": true,
+      "website": "https://travelwithneha.com",
+      "location": "Goa, India"
+    },
+    {
+      "id": 5,
+      "username": "fitness_jay",
+      "name": "Jay Patel",
+      "bio": "Fitness Coach 💪 | Stay Strong",
+      "profile_pic": "https://randomuser.me/api/portraits/men/5.jpg",
+      "followers": 7200,
+      "following": 180,
+      "posts": 95,
+      "isVerified": false,
+      "website": "",
+      "location": "Ahmedabad, India"
+    }
+  ]
+}
