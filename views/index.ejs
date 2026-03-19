@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram</title>
+</head>
+<body>
+    <h1>Welcome to Instagram</h1>
+    <% for (let user of data.users) { %>
+        <div>
+            <h2><%= user.username %></h2>
+            <h3><%= user.name %></h3>
+            <h4><%= user.followers %> followers &nbsp; <%= user.following %> following</h4>
+            <p><%= user.bio %></p>
+        </div>
+        <hr>
+    <% } %> 
+</body>
+</html>
